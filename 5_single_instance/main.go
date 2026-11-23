@@ -1,6 +1,6 @@
 package main
 
-// @Title  Design_patterns
+// @Title  Design Patterns in Go
 // @Description  MyGO
 // @Author  WeiDa  2023/5/5 10:14
 // @Update  WeiDa  2023/5/5 10:14
