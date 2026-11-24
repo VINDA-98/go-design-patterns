@@ -2,7 +2,7 @@
 
 [简体中文](README.zh-CN.md)
 
-A collection of 22 standalone Go exercises for creational, structural, and behavioral design patterns. Each numbered directory contains a `main.go` that demonstrates the pattern in a small example.
+Twenty-two standalone Go programs illustrate creational, structural and behavioral patterns. Open the `main.go` in each numbered directory to see how the pattern is used.
 
 | Example | What to look for |
 | --- | --- |
